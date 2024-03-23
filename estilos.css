@@ -1,0 +1,34 @@
+body{
+	background: #FADBEF;
+	justify-content: center;
+}
+h1{
+	color: #691028;
+}
+a{
+outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link{
+color: #AF295E ;
+}
+a:block{
+#AF295E 
+}
+a:visited{
+color: #AF295E ;
+}
+a:hover{
+	color:#811A43  ;
+}
+.boton{
+	padding: 30 px 40 px;
+	background-color: #EBABC4    ;
+	border: none;
+	border-radius:5px ;
+	cursor: pointer;
+}
+.boton:hover{
+	background-color: #B28194  ;
+}
